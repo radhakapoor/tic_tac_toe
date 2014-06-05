@@ -1,0 +1,1 @@
+I have another version with print statements which I can push to git if that will help sort through the logic. I know that I could improve the computer "psychology" somewhat and make it play tougher e.g. chose more corner spots on the grid etc, but I intentionally didn't get into that level of complexity for this attempt.
